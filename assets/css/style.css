@@ -1,0 +1,27 @@
+.body-custom {
+    background-color: indigo;
+    color: aliceblue;
+}
+
+.header-custom {
+    margin-bottom: 15px;
+    border-bottom: 1px solid blueviolet;
+}
+
+.footer-custom {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid blueviolet;
+}
+
+figcaption {
+    color: lightsteelblue !important;
+}
+
+a {
+    color: rgb(162, 215, 236);
+}
+
+a:hover {
+    color: rgb(61, 201, 248)
+}
